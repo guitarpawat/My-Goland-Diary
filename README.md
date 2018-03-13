@@ -1,5 +1,5 @@
 # My Golang Diary
-My practice in Golang.
+My practice diary in Golang. For whom familiar with other programming language that wants to learn Golang.
 
 ## Contents
 
