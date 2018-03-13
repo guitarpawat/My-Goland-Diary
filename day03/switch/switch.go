@@ -39,4 +39,13 @@ func main() {
 	case k == 0:
 		fmt.Println("This is zero.")
 	}
+
+	// Switch with string
+	s := "hello"
+	switch s {
+	case "hello":
+		fmt.Println("Hello World")
+	case "goodbye":
+		fmt.Println("Goodbye World")
+	}
 }
