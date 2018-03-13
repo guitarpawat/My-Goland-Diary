@@ -13,4 +13,5 @@ My practice diary in Golang. For whom familiar with other programming language t
 
 ### Day 03
 * [If-else condition](./day03/if-else/if.go)
+* [Switch-case](./day03/switch/switch.go)
 * [Loop (for loop)](./day03/loop/for.go)

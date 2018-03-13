@@ -45,4 +45,12 @@ func main() {
 
 	// Invalid.
 	// fmt.Println(n)
+
+	// == operator is valid for compare strings.
+	s := "hello"
+	if s == "hi" {
+		fmt.Println("Why???")
+	} else if s == "hello" {
+		fmt.Println("Yay!!!")
+	}
 }
