@@ -18,3 +18,4 @@ My practice diary in Golang. For whom familiar with other programming language t
 
 ### Day 04
 * [Read string input](./day04/input/input.go)
+* [Arrays](./day04/array/array.go)
