@@ -1,6 +1,10 @@
 # My Golang Diary
 My practice diary in Golang. For whom familiar with other programming language that wants to learn Golang.
 
+## How to run
+1. Download and install Golang from https://golang.org/dl.
+1. Run the program using `go run [filename]` in the command line.
+
 ## Contents
 
 ### Day 01
