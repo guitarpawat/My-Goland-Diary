@@ -23,3 +23,9 @@ My practice diary in Golang. For whom familiar with other programming language t
 ### Day 04
 * [Read string input](./day04/input/input.go)
 * [Arrays](./day04/array/array.go)
+
+## Source
+This code was made while I am learning go for the first time. You may want to find more example at:
+* https://gobyexample.com/
+* https://golang.org/doc/
+* https://tutorialedge.net/golang/
