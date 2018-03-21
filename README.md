@@ -24,6 +24,11 @@ My practice diary in Golang. For whom familiar with other programming language t
 * [Read string input](./day04/input/input.go)
 * [Arrays](./day04/array/array.go)
 
+### Day 05
+* [Slices](./day05/slice/slice.go)
+* [Maps](./day05/map/map.go)
+* [Blank Identifier](./day05/blank/blank.go)
+
 ## Source
 This code was made while I am learning go for the first time. You may want to find more example at:
 * https://gobyexample.com/

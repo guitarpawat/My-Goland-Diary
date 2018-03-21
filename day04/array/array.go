@@ -22,4 +22,8 @@ func main() {
 	c := [2][3]int{{1, 2, 3}, {4, 5, 6}}
 	// or `var c [2][3]int`
 	fmt.Println(c)
+
+	// Compare the arrays
+	fmt.Println(a == [3]int{0, 2, 0})
+	fmt.Println(a == [3]int{0, 0, 0})
 }
