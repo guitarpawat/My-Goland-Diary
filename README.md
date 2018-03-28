@@ -29,6 +29,10 @@ My practice diary in Golang. For whom familiar with other programming language t
 * [Maps](./day05/map/map.go)
 * [Blank Identifier](./day05/blank/blank.go)
 
+### Day 06
+* [Range](./day06/range/range.go)
+* [Functions](./day06/function/func.go)
+
 ## Source
 This code was made while I am learning go for the first time. You may want to find more example at:
 * https://gobyexample.com/
