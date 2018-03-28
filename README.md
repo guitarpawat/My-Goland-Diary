@@ -32,6 +32,7 @@ My practice diary in Golang. For whom familiar with other programming language t
 ### Day 06
 * [Range](./day06/range/range.go)
 * [Functions](./day06/function/func.go)
+* [Closures and Anonymous Functions](./day06/closure/closure.go)
 
 ## Source
 This code was made while I am learning go for the first time. You may want to find more example at:
