@@ -34,6 +34,10 @@ My practice diary in Golang. For whom familiar with other programming language t
 * [Functions](./day06/function/func.go)
 * [Closures and Anonymous Functions](./day06/closure/closure.go)
 
+### Day 07
+* [Pointers](./day07/pointer/pointer.go)
+* [Structs](./day07/struct/struct.go)
+
 ## Source
 This code was made while I am learning go for the first time. You may want to find more example at:
 * https://gobyexample.com/
