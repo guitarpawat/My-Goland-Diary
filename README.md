@@ -37,6 +37,7 @@ My practice diary in Golang. For whom familiar with other programming language t
 ### Day 07
 * [Pointers](./day07/pointer/pointer.go)
 * [Structs](./day07/struct/struct.go)
+* [Struct Methods](./day07/method/bankAccount.go)
 
 ## Source
 This code was made while I am learning go for the first time. You may want to find more example at:
