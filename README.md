@@ -39,6 +39,10 @@ My practice diary in Golang. For whom familiar with other programming language t
 * [Structs](./day07/struct/struct.go)
 * [Struct Methods](./day07/method/bankAccount.go)
 
+### Day 08
+* [Interfaces](./day08/interface/interface.go)
+* [Errors](./day08/error/error.go)
+
 ## Source
 This code was made while I am learning go for the first time. You may want to find more example at:
 * https://gobyexample.com/
