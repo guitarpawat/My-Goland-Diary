@@ -43,6 +43,10 @@ My practice diary in Golang. For whom familiar with other programming language t
 * [Interfaces](./day08/interface/interface.go)
 * [Errors](./day08/error/error.go)
 
+### Day 09
+* [Go routines](./day09/routine/routine.go)
+* [Channels](./day09/channel/channel.go)
+
 ## Source
 This code was made while I am learning go for the first time. You may want to find more example at:
 * https://gobyexample.com/
