@@ -46,6 +46,7 @@ My practice diary in Golang. For whom familiar with other programming language t
 ### Day 09
 * [Go routines](./day09/routine/routine.go)
 * [Channels](./day09/channel/channel.go)
+* [Channel Buffering](./day09/buffer/buffer.go)
 
 ## Source
 This code was made while I am learning go for the first time. You may want to find more example at:
